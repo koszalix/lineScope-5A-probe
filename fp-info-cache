@@ -1,4 +1,4 @@
-25207344136921194
+25210771160797276
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -61761,6 +61761,13 @@ RM84
 8
 8
 Koszalix_Relays
+RM85
+
+
+0
+8
+8
+Koszalix_Relays
 Zettler_AZ943
 
 
@@ -61788,6 +61795,13 @@ TE- 1825910-6
 0
 4
 4
+Koszalix_Symbols
+Attention
+
+
+0
+0
+0
 Koszalix_Transformers
 CSE184L
 

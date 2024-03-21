@@ -1,0 +1,27 @@
+** Drc report for lineScope-5ASW-probe.kicad_pcb **
+** Created on 2024-03-21T20:02:24+0100 **
+
+** Found 0 DRC violations **
+
+** Found 0 unconnected pads **
+
+** Found 5 Footprint errors **
+[duplicate_footprints]: Duplicate footprints
+    Local override; warning (excluded)
+    @(142,6125 mm, 60,6000 mm): Footprint REF**
+    @(181,5125 mm, 83,2000 mm): Footprint REF**
+[duplicate_footprints]: Duplicate footprints
+    Local override; warning (excluded)
+    @(102,2000 mm, 64,8375 mm): Footprint REF**
+    @(181,5125 mm, 83,2000 mm): Footprint REF**
+[extra_footprint]: Extra footprint
+    Local override; warning (excluded)
+    @(181,5125 mm, 83,2000 mm): Footprint REF**
+[extra_footprint]: Extra footprint
+    Local override; warning (excluded)
+    @(142,6125 mm, 60,6000 mm): Footprint REF**
+[extra_footprint]: Extra footprint
+    Local override; warning (excluded)
+    @(102,2000 mm, 64,8375 mm): Footprint REF**
+
+** End of Report **
