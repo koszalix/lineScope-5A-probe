@@ -306,6 +306,8 @@
 			)
 		)
 		(path "/1e388734-1069-44f3-87a2-ae056839b04b")
+		(sheetname "Root")
+		(sheetfile "lineScope-5ASW-probe.kicad_sch")
 		(attr smd dnp)
 		(fp_line
 			(start -0.237258 -0.5225)
@@ -500,7 +502,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Tab Connector 6.4mm"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -539,6 +541,8 @@
 			)
 		)
 		(path "/7123efd3-f837-43ef-890c-7fe1ccdd192d")
+		(sheetname "Root")
+		(sheetfile "lineScope-5ASW-probe.kicad_sch")
 		(attr through_hole)
 		(fp_rect
 			(start -4.445 -1.27)
@@ -671,7 +675,10 @@
 				)
 			)
 		)
+		(property ki_fp_filters "MountingHole*Pad*")
 		(path "/d29372e1-469a-4759-b7ce-756c92a3f6f4")
+		(sheetname "Root")
+		(sheetfile "lineScope-5ASW-probe.kicad_sch")
 		(attr exclude_from_pos_files)
 		(fp_circle
 			(center 0 0)
@@ -887,6 +894,8 @@
 			)
 		)
 		(path "/bb97e6d8-1907-4f2f-866c-c3b1fec0d237")
+		(sheetname "Root")
+		(sheetfile "lineScope-5ASW-probe.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.237258 -0.5225)
@@ -1159,6 +1168,8 @@
 			)
 		)
 		(path "/ec88843d-6089-4834-ba4a-fff1c1124d85")
+		(sheetname "Root")
+		(sheetfile "lineScope-5ASW-probe.kicad_sch")
 		(attr through_hole)
 		(fp_rect
 			(start -1.6 -4.5)
@@ -1317,6 +1328,8 @@
 			)
 		)
 		(path "/14b4b5b0-e2a0-423e-9cec-cadc954d81f1")
+		(sheetname "Root")
+		(sheetfile "lineScope-5ASW-probe.kicad_sch")
 		(attr smd dnp)
 		(fp_line
 			(start -2.36 1)
@@ -1603,7 +1616,10 @@
 				)
 			)
 		)
+		(property ki_fp_filters "R_*")
 		(path "/cc896492-c039-4c02-ad5d-592917de9c12")
+		(sheetname "Root")
+		(sheetfile "lineScope-5ASW-probe.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.727064 -0.91)
@@ -1798,7 +1814,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Tab Connector 6.4mm"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -1837,6 +1853,8 @@
 			)
 		)
 		(path "/133fa9b8-5a12-4e99-9939-df7b262cfcf1")
+		(sheetname "Root")
+		(sheetfile "lineScope-5ASW-probe.kicad_sch")
 		(attr through_hole)
 		(fp_rect
 			(start -4.445 -1.27)
@@ -2205,6 +2223,8 @@
 			)
 		)
 		(path "/a3455125-857b-4423-89d8-2b697b2b2c8e")
+		(sheetname "Root")
+		(sheetfile "lineScope-5ASW-probe.kicad_sch")
 		(attr smd dnp)
 		(fp_line
 			(start -0.254724 -0.5225)
@@ -2412,7 +2432,10 @@
 				)
 			)
 		)
+		(property ki_fp_filters "MountingHole*")
 		(path "/ad152aad-eea3-4609-8b9a-9b9b02b347a1")
+		(sheetname "Root")
+		(sheetfile "lineScope-5ASW-probe.kicad_sch")
 		(attr exclude_from_pos_files)
 		(fp_circle
 			(center 0 0)
@@ -2546,6 +2569,8 @@
 			)
 		)
 		(path "/68cad3c5-f64d-4306-b144-f8361156e8cd")
+		(sheetname "Root")
+		(sheetfile "lineScope-5ASW-probe.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -2.36 -1)
@@ -2833,7 +2858,10 @@
 				)
 			)
 		)
+		(property ki_fp_filters "MountingHole*Pad*")
 		(path "/dee5916d-ba7b-4aec-b3e5-b5b2aa93935c")
+		(sheetname "Root")
+		(sheetfile "lineScope-5ASW-probe.kicad_sch")
 		(attr exclude_from_pos_files)
 		(fp_circle
 			(center 0 0)
@@ -3372,7 +3400,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://cdn.shopifycdn.net/s/files/1/2723/6858/files/TA16_cd4c8c8e-3e86-4eb8-806b-403a81fbd9c5.pdf?v=1632720467"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -3397,6 +3425,8 @@
 			)
 		)
 		(path "/3411c7ec-5a0d-4ebb-b3a3-ad8c8eeeab87")
+		(sheetname "Root")
+		(sheetfile "lineScope-5ASW-probe.kicad_sch")
 		(attr through_hole)
 		(fp_rect
 			(start 9.19 9.2)
@@ -3559,7 +3589,10 @@
 				)
 			)
 		)
+		(property ki_fp_filters "R_*")
 		(path "/e834ba5c-eb5d-4c29-a6d9-4b5fe5ffe08f")
+		(sheetname "Root")
+		(sheetfile "lineScope-5ASW-probe.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.727064 -0.91)
@@ -3793,6 +3826,8 @@
 			)
 		)
 		(path "/45afc810-d4da-4452-a886-5d7abd3db477")
+		(sheetname "Root")
+		(sheetfile "lineScope-5ASW-probe.kicad_sch")
 		(attr smd dnp)
 		(fp_line
 			(start -2.36 -1)
@@ -4184,6 +4219,8 @@
 			)
 		)
 		(path "/59aff9ec-028a-4850-8409-ac89c880a821")
+		(sheetname "Root")
+		(sheetfile "lineScope-5ASW-probe.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.237258 0.5225)
@@ -4562,6 +4599,8 @@
 			)
 		)
 		(path "/f8a3b25a-17e3-48aa-8374-89591315758f")
+		(sheetname "Root")
+		(sheetfile "lineScope-5ASW-probe.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -2.36 1)
@@ -4875,6 +4914,8 @@
 			)
 		)
 		(path "/769a6158-f63d-40aa-8456-b53f1b210634")
+		(sheetname "Root")
+		(sheetfile "lineScope-5ASW-probe.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.254724 0.5225)
@@ -5081,7 +5122,10 @@
 				)
 			)
 		)
+		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/c74a8fd6-2c97-4845-b1e2-12d84067e714")
+		(sheetname "Root")
+		(sheetfile "lineScope-5ASW-probe.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -1.27 -1.27)
@@ -5764,7 +5808,10 @@
 				)
 			)
 		)
+		(property ki_fp_filters "MountingHole*")
 		(path "/0ec73b5e-a35d-4a78-aebf-bfbb85134a6f")
+		(sheetname "Root")
+		(sheetfile "lineScope-5ASW-probe.kicad_sch")
 		(attr exclude_from_pos_files)
 		(fp_circle
 			(center 0 0)
@@ -5859,7 +5906,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Tab Connector 6.4mm"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -5898,6 +5945,8 @@
 			)
 		)
 		(path "/17d2db5c-7390-4a24-a8a0-c43b7804a81b")
+		(sheetname "Root")
+		(sheetfile "lineScope-5ASW-probe.kicad_sch")
 		(attr through_hole)
 		(fp_rect
 			(start -4.445 -1.27)
@@ -6134,6 +6183,8 @@
 			)
 		)
 		(path "/3e94f830-7cd4-42f3-a319-7e746f1c9126")
+		(sheetname "Root")
+		(sheetfile "lineScope-5ASW-probe.kicad_sch")
 		(attr smd dnp)
 		(fp_line
 			(start -0.237258 0.5225)
@@ -7759,7 +7810,7 @@
 	)
 	(dimension
 		(type aligned)
-		(layer "User.5")
+		(layer "User.1")
 		(uuid "06358d9d-12a6-4657-abe6-75a6a57fe058")
 		(pts
 			(xy 101.6125 82.6) (xy 191.6125 82.6)
@@ -7767,7 +7818,7 @@
 		(height 9.999999)
 		(gr_text "90,00"
 			(at 146.6125 91.449999 0)
-			(layer "User.5")
+			(layer "User.1")
 			(uuid "06358d9d-12a6-4657-abe6-75a6a57fe058")
 			(effects
 				(font
@@ -7792,7 +7843,7 @@
 	)
 	(dimension
 		(type aligned)
-		(layer "User.5")
+		(layer "User.1")
 		(uuid "0f170ee2-7e4d-4294-9ba3-f5b338211c2a")
 		(pts
 			(xy 101.6125 62.6) (xy 101.6125 82.6)
@@ -7800,7 +7851,7 @@
 		(height 10)
 		(gr_text "20,00"
 			(at 90.4625 72.6 90)
-			(layer "User.5")
+			(layer "User.1")
 			(uuid "0f170ee2-7e4d-4294-9ba3-f5b338211c2a")
 			(effects
 				(font
@@ -7825,7 +7876,7 @@
 	)
 	(dimension
 		(type aligned)
-		(layer "User.5")
+		(layer "User.1")
 		(uuid "759fcbe7-2fb8-4226-aae6-63ce7c2cc8dc")
 		(pts
 			(xy 96.6125 87.6) (xy 196.1125 87.6)
@@ -7833,7 +7884,7 @@
 		(height 10)
 		(gr_text "99,50"
 			(at 146.3625 96.45 0)
-			(layer "User.5")
+			(layer "User.1")
 			(uuid "759fcbe7-2fb8-4226-aae6-63ce7c2cc8dc")
 			(effects
 				(font
@@ -7858,7 +7909,7 @@
 	)
 	(dimension
 		(type aligned)
-		(layer "User.5")
+		(layer "User.1")
 		(uuid "86a105e9-2273-4031-9324-b8a221a68cf4")
 		(pts
 			(xy 101.6125 82.6) (xy 96.6125 82.6)
@@ -7866,7 +7917,7 @@
 		(height -10)
 		(gr_text "5,00"
 			(at 99.1125 91.45 0)
-			(layer "User.5")
+			(layer "User.1")
 			(uuid "86a105e9-2273-4031-9324-b8a221a68cf4")
 			(effects
 				(font
@@ -7891,7 +7942,7 @@
 	)
 	(dimension
 		(type aligned)
-		(layer "User.5")
+		(layer "User.1")
 		(uuid "8c889a4e-dc3c-4542-8c03-cb71d9070b03")
 		(pts
 			(xy 96.6125 87.6) (xy 96.6125 57.6)
@@ -7899,7 +7950,7 @@
 		(height -10)
 		(gr_text "30,00"
 			(at 85.4625 72.6 90)
-			(layer "User.5")
+			(layer "User.1")
 			(uuid "8c889a4e-dc3c-4542-8c03-cb71d9070b03")
 			(effects
 				(font
@@ -7924,7 +7975,7 @@
 	)
 	(dimension
 		(type aligned)
-		(layer "User.5")
+		(layer "User.1")
 		(uuid "d74849cb-af11-41f2-9954-a60c3f8f6214")
 		(pts
 			(xy 96.6125 87.6) (xy 96.6125 82.6)
@@ -7932,7 +7983,7 @@
 		(height -5)
 		(gr_text "5,00"
 			(at 90.4625 85.1 90)
-			(layer "User.5")
+			(layer "User.1")
 			(uuid "d74849cb-af11-41f2-9954-a60c3f8f6214")
 			(effects
 				(font

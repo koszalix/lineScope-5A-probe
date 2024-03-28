@@ -826,7 +826,7 @@
 					(hide yes)
 				)
 			)
-			(property "Description" ""
+			(property "Description" "Tab Connector 6.4mm"
 				(at 0 0 0)
 				(effects
 					(font
@@ -851,6 +851,15 @@
 						(size 1.27 1.27)
 					)
 					(justify left bottom)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "6.4mm TAB CONNECTOR"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
 					(hide yes)
 				)
 			)
@@ -2552,7 +2561,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Tab Connector 6.4mm"
 			(at 86.36 88.9 0)
 			(effects
 				(font
@@ -2732,7 +2741,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Tab Connector 6.4mm"
 			(at 86.36 100.33 0)
 			(effects
 				(font
@@ -3601,7 +3610,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Tab Connector 6.4mm"
 			(at 86.36 92.71 0)
 			(effects
 				(font
