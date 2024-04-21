@@ -2199,7 +2199,7 @@
 	)
 	(wire
 		(pts
-			(xy 183.515 100.33) (xy 186.055 100.33)
+			(xy 180.975 100.33) (xy 186.055 100.33)
 		)
 		(stroke
 			(width 0)
@@ -2209,7 +2209,7 @@
 	)
 	(wire
 		(pts
-			(xy 175.895 88.9) (xy 155.575 88.9)
+			(xy 173.355 88.9) (xy 155.575 88.9)
 		)
 		(stroke
 			(width 0)
@@ -2269,7 +2269,7 @@
 	)
 	(wire
 		(pts
-			(xy 186.055 88.9) (xy 183.515 88.9)
+			(xy 186.055 88.9) (xy 180.975 88.9)
 		)
 		(stroke
 			(width 0)
@@ -2319,7 +2319,7 @@
 	)
 	(wire
 		(pts
-			(xy 165.1 100.33) (xy 175.895 100.33)
+			(xy 165.1 100.33) (xy 173.355 100.33)
 		)
 		(stroke
 			(width 0)
@@ -2417,7 +2417,7 @@
 		)
 		(uuid "fd6ae342-8952-49d2-a988-b5dd59fcb9e9")
 	)
-	(label "HV.OUT"
+	(label "HV_{LOUT}"
 		(at 92.075 100.33 0)
 		(fields_autoplaced yes)
 		(effects
@@ -2428,7 +2428,18 @@
 		)
 		(uuid "6bf160ff-d713-4fb3-ac6f-58bd200905fc")
 	)
-	(label "HV.IN"
+	(label "OUT_{H}"
+		(at 186.055 88.9 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "8209278a-095e-4073-b4a1-7a83a83390a6")
+	)
+	(label "HV_{LIN}"
 		(at 92.075 88.9 0)
 		(fields_autoplaced yes)
 		(effects
@@ -2439,7 +2450,7 @@
 		)
 		(uuid "864c6a9d-0bc9-45ed-bbf2-3f74dd535b27")
 	)
-	(label "HV.IN'"
+	(label "HV_{L1}"
 		(at 107.95 88.9 0)
 		(fields_autoplaced yes)
 		(effects
@@ -2449,6 +2460,17 @@
 			(justify left bottom)
 		)
 		(uuid "fba7430d-1e27-4e9a-a6de-f4603d1a9e97")
+	)
+	(label "OUT_{L}"
+		(at 186.055 100.33 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "fc8c0186-fae5-4924-adaa-8933731dd35b")
 	)
 	(symbol
 		(lib_id "Mechanical:MountingHole")
@@ -4611,7 +4633,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 179.705 100.33 90)
+		(at 177.165 100.33 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4620,7 +4642,7 @@
 		(fields_autoplaced yes)
 		(uuid "cc896492-c039-4c02-ad5d-592917de9c12")
 		(property "Reference" "R3"
-			(at 179.705 93.98 90)
+			(at 177.165 93.98 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4628,7 +4650,7 @@
 			)
 		)
 		(property "Value" "0R"
-			(at 179.705 96.52 90)
+			(at 177.165 96.52 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4636,7 +4658,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder"
-			(at 179.705 102.108 90)
+			(at 177.165 102.108 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4645,7 +4667,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 179.705 100.33 0)
+			(at 177.165 100.33 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4654,7 +4676,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 179.705 100.33 0)
+			(at 177.165 100.33 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4813,7 +4835,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 179.705 88.9 90)
+		(at 177.165 88.9 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4822,7 +4844,7 @@
 		(fields_autoplaced yes)
 		(uuid "e834ba5c-eb5d-4c29-a6d9-4b5fe5ffe08f")
 		(property "Reference" "R1"
-			(at 179.705 82.55 90)
+			(at 177.165 82.55 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4830,7 +4852,7 @@
 			)
 		)
 		(property "Value" "0R"
-			(at 179.705 85.09 90)
+			(at 177.165 85.09 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4838,7 +4860,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder"
-			(at 179.705 90.678 90)
+			(at 177.165 90.678 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4847,7 +4869,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 179.705 88.9 0)
+			(at 177.165 88.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4856,7 +4878,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 179.705 88.9 0)
+			(at 177.165 88.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
