@@ -9,8 +9,8 @@
 	(paper "A4")
 	(title_block
 		(title "lineScope 5A Probe")
-		(date "2024-03-21")
-		(rev "1.0.0")
+		(date "2024-05-26")
+		(rev "1.1.0")
 		(company "Koszalix")
 	)
 	(layers
@@ -6627,7 +6627,7 @@
 			(justify left bottom)
 		)
 	)
-	(gr_text "Rev 1.0.0 03/2024"
+	(gr_text "Rev 1.1.0 03/2024"
 		(at 116.6125 63.2 0)
 		(layer "F.SilkS")
 		(uuid "cfc9bad5-cc6a-4e26-aa67-cef1961de3ae")
