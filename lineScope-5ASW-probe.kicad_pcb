@@ -4067,7 +4067,7 @@
 				)
 			)
 		)
-		(property "Value" "300R"
+		(property "Value" "100R"
 			(at 0 1.43 -90)
 			(layer "F.Fab")
 			(uuid "ea7d434b-2b82-490b-a9f6-9c3865a14699")
@@ -4127,7 +4127,7 @@
 				)
 			)
 		)
-		(property "MPN" "RC0603FR-07300R"
+		(property "MPN" "RC0603FR-07100R"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -4218,7 +4218,7 @@
 				)
 			)
 		)
-		(path "/59aff9ec-028a-4850-8409-ac89c880a821")
+		(path "/da667cca-a66a-44ff-901a-b309530cd714")
 		(sheetname "Root")
 		(sheetfile "lineScope-5ASW-probe.kicad_sch")
 		(attr smd)
